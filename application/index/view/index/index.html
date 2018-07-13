@@ -26,7 +26,7 @@
         <i class="icon icon-toleft t-48"></i>
         <span class="shop-titlte t-30">商店</span>
         <span class="shop-online t-26"></span>
-        <span class="into-shop">进店</span>
+        <!--<span class="into-shop">进店</span>-->
     </div>
     <div class="fui-content navbar" style="padding:1.2rem 0 1.35rem 0;">
         <div class="chat-content">
@@ -103,7 +103,7 @@
                   save_message(message);
                       if(message.isread==1){
                            online=1;
-                          $(".shop-online").text("在线");
+                          $(".into-shop").text("在线");
                       }else{
                            online=0;
                           $(".shop-online").text("不在线");
