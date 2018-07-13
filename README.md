@@ -4,7 +4,7 @@
 
 ![image](https://github.com/tcyfree/chat_gateway_tp/public/static/blob/master/3.png)
 
-**install** 
+**Install** 
 
     git clone https://github.com/tcyfree/chat_gateway_tp.git
     
