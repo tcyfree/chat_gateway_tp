@@ -1,8 +1,8 @@
-![image](https://github.com/tcyfree/chat_gateway_tp/public/static/blob/master/1.png)
+![image](https://github.com/tcyfree/chat_gateway_tp/blob/master/public/1.png)
 
-![image](https://github.com/tcyfree/chat_gateway_tp/public/static/blob/master/2.png)
+![image](https://github.com/tcyfree/chat_gateway_tp/blob/master/public/2.png)
 
-![image](https://github.com/tcyfree/chat_gateway_tp/public/static/blob/master/3.png)
+![image](https://github.com/tcyfree/chat_gateway_tp/blob/master/public/3.png)
 
 **Install** 
 
